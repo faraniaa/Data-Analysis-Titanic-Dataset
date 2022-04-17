@@ -6,7 +6,7 @@ Data cleaning is the process of fixing or removing incorrect, corrupted, incorre
 
 In this repository you can learn about how to cleaning a Titanic dataset in python.
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
 
 In this repository you can learn about how to analysis a Titanic dataset in python.
